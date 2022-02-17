@@ -1,0 +1,10 @@
+# miss-diya
+GET QR
+$ apt install git
+$ apt install nodejs --fix-missing
+$ git clone https://github.com/diyamwol/miss-diya
+$ cd diyamwol
+$ npm install @adiwajshing/baileys
+$ npm install chalk
+$ node diyamwol.js
+Miss diya wats app bot
